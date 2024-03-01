@@ -369,6 +369,10 @@ body{
     border-radius: .3rem;
     font-weight: 600;
     transition: .3s ease;
+    -webkit-transition: .3s ease;
+    -moz-transition: .3s ease;
+    -ms-transition: .3s ease;
+    -o-transition: .3s ease;
 }
 
 .skills-content .content span:hover{
